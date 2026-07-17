@@ -23,7 +23,7 @@ app.get('/', (req, res) => {
       <title>Browser Info</title>
     </head>
     <body>
-      <h1>Browser and Timestamp Info</h1>
+      <h1>Browser and Timestamp Info Testing</h1>
       <p id="browser-info">Loading browser details...</p>
       <p id="timestamp">Fetching server timestamp...</p>
       <script>
